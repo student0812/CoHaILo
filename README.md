@@ -26,7 +26,7 @@ CaHaILo 是一个用于检测和分析大型语言模型（LLM）在代码生成
 #### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/CaHaILo.git
+git clone https://github.com/student0812/CaHaILo.git
 cd CaHaILo
 ```
 
@@ -107,7 +107,7 @@ CaHaILo/
 
 ### 1. 数据准备
 
-项目基于 [BigVul](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset) 数据集进行评估。
+项目基于 [https://github.com/student0812/CoHaILo/releases/tag/CoHaILo-dataset) 数据集进行评估。
 ```bash
 # 将数据集放置到指定目录
 mkdir -p CoHaILo-main/src/resource/dataset/python
